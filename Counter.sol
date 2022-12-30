@@ -4,7 +4,7 @@ pragma solidity ^0.8.17;
 contract Counter {
     uint count;
     address myAddress;
-    string d = "andreapn";
+    string d = "andreapn222";
 
     // Function to get the current count
     function get() public view returns (uint) {
